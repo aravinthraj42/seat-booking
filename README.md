@@ -1,6 +1,6 @@
 # Seat Booking Application System
 
-Welcome to **Seat Booking Application System** - a responsive and user-friendly web application designed to provide [brief purpose of the app]. This project is built using React,Javascript,CSS HTML, Vite and modern front-end technologies, ensuring an accessible and engaging user experience across various devices and screen sizes.
+Welcome to **Seat Booking Application System** - a responsive and user-friendly web application designed to Show Case the Skills. This project is built using React,Javascript,CSS HTML, Vite and modern front-end technologies, ensuring an accessible and engaging user experience across various devices and screen sizes.
 
 ## Table of Contents
 - [About](#about)
@@ -15,7 +15,7 @@ Welcome to **Seat Booking Application System** - a responsive and user-friendly 
 ---
 
 ## About
-**[Application Name]** is a lightweight and responsive web application built with modern web technologies to ensure seamless functionality across devices. The application focuses on providing [insert key functionality, e.g., seat reservation, booking system, etc.].
+**Seat Booking Application System** is a lightweight and responsive web application built with modern web technologies to ensure seamless functionality across devices. The application focuses on providing [insert key functionality, e.g., seat reservation, booking system, etc.].
 
 ### Key Highlights:
 - Clean and modern UI/UX with intuitive navigation.
